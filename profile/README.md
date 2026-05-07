@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://opsmill.com/wp-content/uploads/2025/05/OpsMill-Logo-2C.svg" alt="OpsMill" width="280" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/opsmill-holt/.github/main/profile/assets/OpsMill-logo-white.svg">
+    <img src="https://opsmill.com/wp-content/uploads/2025/05/OpsMill-Logo-2C.svg" alt="OpsMill" width="280">
+  </picture>
 </p>
 
 <p align="center">
